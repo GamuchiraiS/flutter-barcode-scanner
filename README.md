@@ -18,7 +18,7 @@
 
 When user scans barcode
 
-https://user-images.githubusercontent.com/80484981/165280203-62c8f58c-b6a9-4650-a01c-f7551d792544.mp4
+https://user-images.githubusercontent.com/80484981/165281132-05784aac-0bc1-40d2-8896-cc2bf2c1e846.mp4
 
 When user cancels or there is no result
 
