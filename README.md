@@ -5,7 +5,7 @@
 1. flutter_barcode_scanner
 2. barcode_widget
 
-(Add undder dependencies in pubspec file)
+(Add under dependencies in pubspec file)
 
 # Assets
 1. Poppins-Regular.ttf
